@@ -1,6 +1,6 @@
 # EDA-for-The-Office-Story
 
-This repository is the Exploratory Data Analysis(EDA) part of "The Office Story" project; you can click here to view the project's repo - 
+This repository is the Exploratory Data Analysis(EDA) part of "The Office Story" project; you can view the project's repo here - https://github.com/swarnitav08/The-Office-Story
 
 You can check out the slideshow I created using Jupyter slides at https://swarnitav08.github.io/EDA-for-The-Office-Story/#/ hosted on Github pages.
 
